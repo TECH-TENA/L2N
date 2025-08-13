@@ -2,6 +2,7 @@
 learn2earn website
 
 ## containerize this app using docker and docker-compose
+- create a module vpc, security groupe and ec2 using terraform and deploy the app onto it! 
 - fork the repo first please
 - make sure to push the images to your dockerhub.
 - add a screenshort of the app perfectly working on the browser
