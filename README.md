@@ -8,3 +8,5 @@ learn2earn website
 - make sure to push the images to your dockerhub.
 - add a screenshort of the app perfectly working on the browser
 - test by app by making a payement of $5 if the payment passes your app is working good!!!
+
+## Make sure you document all your work! it will help you for your interview!!!
